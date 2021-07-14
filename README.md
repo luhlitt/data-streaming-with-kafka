@@ -4,13 +4,7 @@ In this project, an event streaming pipeline around Apache Kafka and its ecosyst
 
 When the project is complete, we will be able to monitor a website to watch trains move from station to station.
 
-![Final User Interface](images/ui.png)
-![Final User Interface](https://github.com/luhlitt/data-streaming-with-kafka/blob/main/event%20streaming%20architecture.png)
-
-
-
-![alt text](https://github.com/[luhlitt]/[data-streaming-with-kafka]/blob/[main]/event streaming architecture.png?raw=true)
-
+![Final User Interface](https://github.com/luhlitt/data-streaming-with-kafka/blob/main/CTA%20status%20page.png)
 
 
 ## Prerequisites
@@ -27,7 +21,7 @@ The Chicago Transit Authority (CTA) has asked us to develop a dashboard displayi
 
 Our architecture will look like so:
 
-![Project Architecture](images/diagram.png)
+![Project Architecture](https://github.com/luhlitt/data-streaming-with-kafka/blob/main/event%20streaming%20architecture.png)
 
 ### Step 1: Create Kafka Producers
 The first step in our plan is to configure the train stations to emit some of the events that we need. The CTA has placed a sensor on each side of every train station that can be programmed to take an action whenever a train arrives at the station.
