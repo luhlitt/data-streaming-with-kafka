@@ -5,6 +5,8 @@ In this project, an event streaming pipeline around Apache Kafka and its ecosyst
 When the project is complete, we will be able to monitor a website to watch trains move from station to station.
 
 ![Final User Interface](images/ui.png)
+![alt text](https://github.com/[luhlitt]/[data-streaming-with-kafka]/blob/[main]/event streaming architecture.png?raw=true)
+
 
 
 ## Prerequisites
